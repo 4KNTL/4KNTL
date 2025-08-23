@@ -10,7 +10,7 @@
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm [NAMA ANDA]</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm llliyy</h1></summary>
   </ul>
 </div>
 
@@ -24,16 +24,9 @@
 <!-- ABOUT ME -->
 <p align="center">
   <br>
-  I'm a passionate developer and security researcher with a knack for building robust systems and breaking them to make them stronger. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.
+  I'm a human
   <br>
 </p>
-
-- 🔭 I’m currently working on **a stealth-mode security project**.
-- 🌱 I’m currently learning **Rust and Advanced Penetration Testing**.
-- 👯 I’m looking to collaborate on **open-source security tools**.
-- 💬 Ask me about **System Design, Backend Architecture, or Web Security**.
-- 📫 How to reach me: **[email.anda@example.com]**
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute.
 
 <!-- SOCIAL ICONS -->
 <p align="center">
@@ -51,7 +44,7 @@
 ---
 
 <!-- SKILLS -->
-<h2 align="center">My Tech Stack & Arsenal ⚔️</h2>
+<h2 align="center">⚔️</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,svelte,tailwind,nodejs,bun,go,rust,python,java,c,cpp,cs,php&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>

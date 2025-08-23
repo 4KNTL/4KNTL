@@ -40,7 +40,7 @@
 <!-- SKILLS -->
 <h2 align="center">⚔️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,html,css,c,cpp,cs,nodejs,python,java,php,yarn,npm&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,html,css,c,cpp,nodejs,python,php,yarn,npm,cs,bootstrap&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,nginx,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
   <br>

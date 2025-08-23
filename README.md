@@ -58,11 +58,11 @@
 <!-- GITHUB STATS -->
 <h2 align="center">My GitHub Statistics 📊</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=l444l&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME_ANDA&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l444l&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l444l&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---

@@ -40,11 +40,11 @@
 <!-- SKILLS -->
 <h2 align="center">⚔️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,nodejs,python,java,c,cpp,cs,php&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,nodejs,python,java,c,cpp,cs,php,html,css,yarn,npm&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,nginx,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,vite&perline=9&theme=dark" alt="Tools & Software" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,ubuntu&perline=9&theme=dark" alt="Tools & Software" />
 </p>
 
 ---

@@ -7,6 +7,11 @@
   <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/cover.gif" alt="cover" width="100%"/>
 </p>
 
+<!-- LED SCANNER ANIMATION -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="led scanner" width="100%"/>
+</p>
+
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">

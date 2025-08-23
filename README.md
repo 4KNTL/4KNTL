@@ -10,7 +10,8 @@
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm llliyy</h1></summary><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm llliyy</h1></summary>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </ul>
 </div>
 

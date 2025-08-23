@@ -70,7 +70,7 @@
 <!-- SNAKE -->
 <h2 align="center">Snake Eating My Contributions 🐍</h2>
 <p align="center">
-  <img src="https://github.com/USERNAME_ANDA/USERNAME_ANDA/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/l444l/l444l/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!-- FOOTER -->

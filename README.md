@@ -1,12 +1,86 @@
-- 👋 Hi, I’m @l444l
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+  Credit: Monkey D. Evil
+-->
 
-<!---
-l444l/l444l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/cover.gif" alt="cover" width="100%"/>
+</p>
+
+<!-- GREETING -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm [NAMA ANDA]</h1></summary>
+  </ul>
+</div>
+
+<!-- TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F7A2&background=0D111700&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Digital+Architect;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- ABOUT ME -->
+<p align="center">
+  <br>
+  I'm a passionate developer and security researcher with a knack for building robust systems and breaking them to make them stronger. I thrive on solving complex problems and turning ideas into reality through clean, efficient code.
+  <br>
+</p>
+
+- 🔭 I’m currently working on **a stealth-mode security project**.
+- 🌱 I’m currently learning **Rust and Advanced Penetration Testing**.
+- 👯 I’m looking to collaborate on **open-source security tools**.
+- 💬 Ask me about **System Design, Backend Architecture, or Web Security**.
+- 📫 How to reach me: **[email.anda@example.com]**
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute.
+
+<!-- SOCIAL ICONS -->
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME_ANDA" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/USERNAME_ANDA" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://your-blog.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+---
+
+<!-- SKILLS -->
+<h2 align="center">My Tech Stack & Arsenal ⚔️</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,svelte,tailwind,nodejs,bun,go,rust,python,java,c,cpp,cs,php&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,nginx,aws,gcp,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode,neovim,figma,postman,jest,vite,webpack&perline=9&theme=dark" alt="Tools & Software" />
+</p>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">My GitHub Statistics 📊</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME_ANDA&layout=compact&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
+<!-- SNAKE -->
+<h2 align="center">Snake Eating My Contributions 🐍</h2>
+<p align="center">
+  <img src="https://github.com/USERNAME_ANDA/USERNAME_ANDA/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7A2&height=100&section=footer"/>
+</p>

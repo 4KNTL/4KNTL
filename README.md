@@ -7,11 +7,6 @@
   <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/cover.gif" alt="cover" width="100%"/>
 </p>
 
-<!-- LED SCANNER ANIMATION -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="led scanner" width="100%"/>
-</p>
-
 <!-- GREETING -->
 <div id="user-content-toc">
   <ul align="center">
@@ -42,9 +37,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,html,css,c,cpp,nodejs,python,php,yarn,npm,cs,bootstrap&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,nginx,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,nginx,heroku,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,ubuntu&perline=9&theme=dark" alt="Tools & Software" />
+  <img src="https://skillicons.dev/icons?i=git,bash,linux,vscode,ubuntu,androidstudio&perline=9&theme=dark" alt="Tools & Software" />
 </p>
 
 ---

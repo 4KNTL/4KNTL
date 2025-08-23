@@ -29,34 +29,23 @@
 </p>
 
 <!-- SOCIAL ICONS -->
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/USERNAME_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-blog.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-20232A?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
-  </a>
-</p>
 
 ---
 
 <!-- SKILLS -->
 <h2 align="center">⚔️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,svelte,tailwind,nodejs,bun,go,rust,python,java,c,cpp,cs,php&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,bun,react,nextjs,vue,tailwind,nodejs,python,java,c,cpp,cs,php&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,nginx,aws,gcp,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,nginx,firebase,vercel,cloudflare&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode,neovim,figma,postman,jest,vite,webpack&perline=9&theme=dark" alt="Tools & Software" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,vite&perline=9&theme=dark" alt="Tools & Software" />
 </p>
 
 ---
 
 <!-- GITHUB STATS -->
-<h2 align="center">My GitHub Statistics 📊</h2>
+<h2 align="center">Statistics 📊</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=l444l&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
   <br><br>
@@ -68,7 +57,7 @@
 ---
 
 <!-- SNAKE -->
-<h2 align="center">Snake Eating My Contributions 🐍</h2>
+<h2 align="center">🐍</h2>
 <p align="center">
   <img src="https://github.com/l444l/l444l/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>

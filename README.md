@@ -36,7 +36,7 @@
 <!-- SKILLS -->
 <h2 align="center">⚔️</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&perline=9&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&perline=9&theme=dark" alt="Languages & Frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=bun,vscode&perline=9&theme=dark" alt="DB, DevOps & Cloud" />
   <br>
